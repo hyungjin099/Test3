@@ -11,7 +11,17 @@ public class TestController {
 		return "index";
 	}
 	
+	public void test1() {
+		System.out.println("test1 branch에서 작업");
+	}
+	
 }
+
+
+
+
+
+
 
 
 
